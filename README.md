@@ -15,9 +15,9 @@ Starting with looking at the skincare information, a few questions were posted a
 1. What are some commonly seen ingredients in the Clean Skincare?
 
 2. Does clinical test grants good results?
-!clinc[https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Screen%20Shot%202021-01-13%20at%205.37.11%20PM.png]
+![clinc](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Screen%20Shot%202021-01-13%20at%205.37.11%20PM.png)
 3. Which category can be versatile while gets good ratings?
-!category_rate[https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png]
+![ategory_rate](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png)
 
 
 
