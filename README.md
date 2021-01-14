@@ -1,6 +1,7 @@
 # Sephora Clean Skincare - Recommender System
 by Shenghao (Lavender) Zhang
 
+## Overview
 Natural and organic skincares have attracted a lot of attentions in the recent years. As one of the biggest Beauty Product retailers, Sephora launched their own category "Clean at Sephora" around June 2018. If you shop regularly there, you may find that products within this category usually has a green label on the product image. Based on Sephora's own statement, they listed about 50 differents that would set the bar for the "Clean" admission. Some common ingredients that quite often come across in the beauty world includes: 
 
 - Paraben (a common preservative)
@@ -11,7 +12,9 @@ Natural and organic skincares have attracted a lot of attentions in the recent y
 
 With many people showing love for natural & organic products not only for personal health benefits and also for enjoying a more enviromentally friendly lifestyle, we can look at how to promote certain clean skincare products. 
 
+## Some Overall Outlooks
 Starting with looking at the skincare information, a few questions were posted and visualized. 
+
 ### 1. What are some commonly seen ingredients in the Clean Skincare?
 ![ingred](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/All_prod.png)
 
