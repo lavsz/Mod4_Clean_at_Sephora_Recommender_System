@@ -12,12 +12,14 @@ Natural and organic skincares have attracted a lot of attentions in the recent y
 With many people showing love for natural & organic products not only for personal health benefits and also for enjoying a more enviromentally friendly lifestyle, we can look at how to promote certain clean skincare products. 
 
 Starting with looking at the skincare information, a few questions were posted and visualized. 
-**1. What are some commonly seen ingredients in the Clean Skincare?**
+### 1. What are some commonly seen ingredients in the Clean Skincare?
 
-**2. Does clinical test grants good results?**
+### 2. Does clinical test grants good results?
+
 ![clinc](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Screen%20Shot%202021-01-13%20at%205.37.11%20PM.png)
 
-**3. Which category can be versatile while gets good ratings?**
+### 3. Which category can be versatile while gets good ratings?
+
 ![ategory_rate](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png)
 
 
