@@ -16,17 +16,38 @@ With many people showing love for natural & organic products not only for person
 Starting with looking at the skincare information, a few questions were posted and visualized. 
 
 ### 1. What are some commonly seen ingredients in the Clean Skincare?
-![ingred](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/All_prod.png)
+![ingred](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/All_prod.png)
 
 **Not bad! But this can be a little bit disappointing, right?** As we saw ingredients Phenoxyethanol and propanediol.
 
 ### 2. Does clinical test grants good results?
 
-![clinc](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Screen%20Shot%202021-01-13%20at%205.37.11%20PM.png)
+![clinc](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.37.11%20PM.png)
 
 ### 3. Which category can be versatile while gets good ratings?
 
-![ategory_rate](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png)
+![ategory_rate](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png)
+
+### 4. What can we see from our consumers?
 
 
+## Recommendation Systems
+
+Three types of recommendation systems are being looked at:
+
+### Collaborative Filtering System
+
+A system that looks at the interactions between users and items, in our case, beauty shoppers and Clean skincare products. Who bought what products were used to determine users potential of purchasing a product that they have never bought in the past.
+
+### Content-based System
+
+A content-based system looks at the similarites of the items, in our case, the similarites of skincare products. If someone bought product A, a similar product B would be on the top recommendation list for this person. 
+
+### Hybrid System
+
+A hybrid system looks at both similarties of items as well as user-item interactions. In our case, the hybrid system added in both user-similarities as well item similarities on top of the user-item interactions to predict. 
+
+### Results
+
+It seems that a collaborative filtering system works the best so far with an accuracy score of 87%. In the Hybrid system, the system with user-similarity added in works the best. 
 
