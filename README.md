@@ -53,6 +53,11 @@ A hybrid system looks at both similarties of items as well as user-item interact
 It seems that a collaborative filtering system works the best so far with an accuracy score of 87%. In the Hybrid system, the system with user-similarity added in works the best. 
 
 ## Reference and librarys:
-Surprise: documention is here(https://surprise.readthedocs.io/en/stable/getting_started.html)
-LightFM: documentation is here(https://making.lyst.com/lightfm/docs/home.html)
+Surprise: documentation is [here](https://surprise.readthedocs.io/en/stable/getting_started.html)
+
+LightFM: documentation is [here](https://making.lyst.com/lightfm/docs/home.html)
+
+Clean at Sephora: product page is [here](https://www.sephora.com/beauty/clean-beauty-products)
+
+
 
