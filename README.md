@@ -28,10 +28,6 @@ Starting with looking at the skincare information, a few questions were posted a
 
 <img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png' width="450" height="250">
 
-### 4. What can we see from our consumers?
-<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-14%20at%205.55.02%20PM.png'
-width="450" height="250">
-
 
 ## Recommendation Systems
 
