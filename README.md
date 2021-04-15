@@ -22,7 +22,7 @@ Starting with looking at the skincare information, a few questions were posted a
 
 ### 2. Does clinical test grants good results?
 
-![clinc](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.37.11%20PM.png)
+<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.37.11%20PM.png' width="450" height="250">
 
 ### 3. Which category can be versatile while gets good ratings?
 
