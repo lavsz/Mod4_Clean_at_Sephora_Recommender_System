@@ -16,7 +16,7 @@ With many people showing love for natural & organic products not only for person
 Starting with looking at the skincare information, a few questions were posted and visualized. 
 
 ### 1. What are some commonly seen ingredients in the Clean Skincare?
-<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/All_prod.png' width="450" height="250">
+<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/All_prod.png' width="450" height="450">
 
 **Not bad! But this can be a little bit disappointing, right?** As we saw ingredients Phenoxyethanol and propanediol.
 
