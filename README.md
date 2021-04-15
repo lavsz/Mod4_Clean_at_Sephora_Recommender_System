@@ -16,7 +16,7 @@ With many people showing love for natural & organic products not only for person
 Starting with looking at the skincare information, a few questions were posted and visualized. 
 
 ### 1. What are some commonly seen ingredients in the Clean Skincare?
-![ingred](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/All_prod.png)
+<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/All_prod.png' width="450" height="250">
 
 **Not bad! But this can be a little bit disappointing, right?** As we saw ingredients Phenoxyethanol and propanediol.
 
@@ -26,10 +26,11 @@ Starting with looking at the skincare information, a few questions were posted a
 
 ### 3. Which category can be versatile while gets good ratings?
 
-![ategory_rate](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png)
+<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png' width="450" height="250">
 
 ### 4. What can we see from our consumers?
-![concerns](https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-14%20at%205.55.02%20PM.png)
+<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-14%20at%205.55.02%20PM.png'
+width="450" height="250">
 
 
 ## Recommendation Systems
