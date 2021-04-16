@@ -24,6 +24,8 @@ Note: **Not bad! But this can be a little bit disappointing, right?** As we saw 
 
 <img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.37.11%20PM.png' width="500" height="300">
 
+Note: overall, clinically-tested products tend to achieve slightly better ratings than those that were not. 
+
 ### 3. Which category can be versatile while gets good ratings?
 
 <img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png' width="550" height="300">
