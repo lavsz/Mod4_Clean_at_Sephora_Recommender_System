@@ -45,7 +45,7 @@ A system that looks at the interactions between users and items, in our case, be
 
 ### Hybrid System
 
-A hybrid system looks at both similarties of items as well as user-item interactions. In our case, the hybrid system added in both user-similarities as well item similarities on top of the user-item interactions to predict. The package LightFM was used to build this system. Different types of contents were evaluated including user features (skin type, skin concerns, reviews on product etc.) and product features (brand, ingredients, product type etc.).
+A hybrid system looks at both similarties of items as well as user-item interactions. In our case, the hybrid system added in both user-similarities as well item similarities on top of the user-item interactions to predict. The package LightFM was used to build this system. Different types of contents were evaluated including user features (skin type, skin concerns, reviews on product etc.) and product features (brand, ingredients, product type etc.). Due to LightFM's limitation, the Hybrid system could not be evaluated on the accuracy score. The best hybrid system was able to achieve 87% on the average auc score. 
 
 ### Results
 
