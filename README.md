@@ -28,7 +28,7 @@ Note: overall, clinically-tested products tend to achieve slightly better rating
 
 ### 3. Which category can be versatile while gets good ratings?
 
-<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png' width="550" height="300">
+<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png' width="600" height="300">
 
 Note: Face mask is a category that can be versatile and with relative high ratings. 
 
