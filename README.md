@@ -34,23 +34,24 @@ Note: Face mask is a category that can be versatile and with relative high ratin
 
 ## Recommendation Systems
 
-Three types of recommendation systems are being looked at:
+To better differentiate user's review on products, the product that was rated 1 or 2 by a user was then converted to 0 (not likely to buy and satify) and rating above 3 are converted to 1 (likely to buy and like).
+
+Two types of recommendation systems are being looked at:
 
 ### Collaborative Filtering System
 
-A system that looks at the interactions between users and items, in our case, beauty shoppers and Clean skincare products. Who bought what products were used to determine users potential of purchasing a product that they have never bought in the past. The package Surprise was used to build this system
+A system that looks at the interactions between users and items, in our case, beauty shoppers and Clean skincare products. Who bought what products were used to determine users potential of purchasing a product that they have never bought in the past. The package Surprise was used to build this system with evaluations of many different algorithms including but not limited to SVD and Normal Predictor etc. The highest accuracy score was 88% through the SVD algorithm. 
 
-### Content-based System
-
-A content-based system looks at the similarites of the items, in our case, the similarites of skincare products. If someone bought product A, a similar product B would be on the top recommendation list for this person. The package LightFM was used to build this system.
 
 ### Hybrid System
 
-A hybrid system looks at both similarties of items as well as user-item interactions. In our case, the hybrid system added in both user-similarities as well item similarities on top of the user-item interactions to predict. The package LightFM was used to build this system.
+A hybrid system looks at both similarties of items as well as user-item interactions. In our case, the hybrid system added in both user-similarities as well item similarities on top of the user-item interactions to predict. The package LightFM was used to build this system. Different types of contents were evaluated including user features (skin type, skin concerns, reviews on product etc.) and product features (brand, ingredients, product type etc.).
 
 ### Results
 
-By evaluating all the recommendation system, the collaborative filtering system works the best so far with an accuracy score of 87%. In the Hybrid system, the system with user-features added in works the best which demonstrates similarity among users can be more important than similarity among products. 
+By evaluating all the recommendation system, the collaborative filtering system works well with high accuracy score. Many times, in the case of choosing a product, users tend to look at how many people had purchased a specific item and how many gave positive feedbacks. 
+
+In the Hybrid system, the system with user-features added in has higher auc score than the system with item-features or both user and item features. This result demonstrates that similarity among users can be more important than similarity among products when promoting a product, as consumers tend to believe more in real life comments and experiences more than what product marketing contents.
 
 ## Major Libraries Used:
 Webscrapping & Acquisition:
