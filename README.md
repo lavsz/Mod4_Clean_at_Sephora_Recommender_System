@@ -53,6 +53,12 @@ By evaluating all the recommendation system, the collaborative filtering system 
 
 In the Hybrid system, the system with user-features added in has higher auc score than the system with item-features or both user and item features. This result demonstrates that similarity among users can be more important than similarity among products when promoting a product, as consumers tend to believe more in real life comments and experiences more than what product marketing contents.
 
+## Further Improvement:
+
+LightFM is a relatively new recommendation system builder. With its capacity of incorporting features from both consumers and products, it would be great to research more on larger dataset to improve the recommendation system for all beauty products.  
+
+Beauty product purchase also would be largely affected by geographical location as climate plays a role in skin concerns. Information about user's location can be very helpful in providing insights for customized promotion in different regions. 
+
 ## Major Libraries Used:
 Webscrapping & Acquisition:
 - Selenium
