@@ -26,7 +26,7 @@ Starting with looking at the skincare information, a few questions were posted a
 
 ### 3. Which category can be versatile while gets good ratings?
 
-<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png' width="500" height="300">
+<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png' width="550" height="300">
 
 
 ## Recommendation Systems
