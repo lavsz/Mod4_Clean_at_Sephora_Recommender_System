@@ -10,7 +10,7 @@ Natural and organic skincares have attracted a lot of attentions in the recent y
 - Mineral Oils 
 - Triclosan (antibacterial agent)
 
-With many people showing love for natural & organic products not only for personal health benefits and also for enjoying a more enviromentally friendly lifestyle, we can look at how to promote certain clean skincare products. 
+With many people showing love for natural & organic products not only for personal health benefits and also for enjoying a more enviromentally friendly lifestyle, we can look at how to promote certain clean skincare products most efficiently through different recommender systems. 
 
 ## Some Overall Outlooks
 Starting with looking at the skincare information, a few questions were posted and visualized. 
@@ -22,11 +22,11 @@ Starting with looking at the skincare information, a few questions were posted a
 
 ### 2. Does clinical test grants good results?
 
-<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.37.11%20PM.png' width="450" height="250">
+<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.37.11%20PM.png' width="500" height="300">
 
 ### 3. Which category can be versatile while gets good ratings?
 
-<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png' width="450" height="250">
+<img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/Screen%20Shot%202021-01-13%20at%205.39.27%20PM.png' width="500" height="300">
 
 
 ## Recommendation Systems
