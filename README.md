@@ -38,19 +38,19 @@ Three types of recommendation systems are being looked at:
 
 ### Collaborative Filtering System
 
-A system that looks at the interactions between users and items, in our case, beauty shoppers and Clean skincare products. Who bought what products were used to determine users potential of purchasing a product that they have never bought in the past.
+A system that looks at the interactions between users and items, in our case, beauty shoppers and Clean skincare products. Who bought what products were used to determine users potential of purchasing a product that they have never bought in the past. The package Surprise was used to build this system
 
 ### Content-based System
 
-A content-based system looks at the similarites of the items, in our case, the similarites of skincare products. If someone bought product A, a similar product B would be on the top recommendation list for this person. 
+A content-based system looks at the similarites of the items, in our case, the similarites of skincare products. If someone bought product A, a similar product B would be on the top recommendation list for this person. The package LightFM was used to build this system.
 
 ### Hybrid System
 
-A hybrid system looks at both similarties of items as well as user-item interactions. In our case, the hybrid system added in both user-similarities as well item similarities on top of the user-item interactions to predict. 
+A hybrid system looks at both similarties of items as well as user-item interactions. In our case, the hybrid system added in both user-similarities as well item similarities on top of the user-item interactions to predict. The package LightFM was used to build this system.
 
 ### Results
 
-It seems that a collaborative filtering system works the best so far with an accuracy score of 87%. In the Hybrid system, the system with user-similarity added in works the best. 
+By evaluating all the recommendation system, the collaborative filtering system works the best so far with an accuracy score of 87%. In the Hybrid system, the system with user-features added in works the best which demonstrates similarity among users can be more important than similarity among products. 
 
 ## Major Libraries Used:
 Webscrapping & Acquisition:
