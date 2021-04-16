@@ -61,7 +61,7 @@ Recommender System Modeling:
 - LightFM
 - Surprise
 
-## Reference and libraries:
+## Reference:
 Surprise: documentation is [here](https://surprise.readthedocs.io/en/stable/getting_started.html)
 
 LightFM: documentation is [here](https://making.lyst.com/lightfm/docs/home.html)
