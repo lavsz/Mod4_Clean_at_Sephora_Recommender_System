@@ -18,7 +18,7 @@ Starting with looking at the skincare information, a few questions were posted a
 ### 1. What are some commonly seen ingredients in the Clean Skincare?
 <img src = 'https://github.com/lavsz/Mod4_Project_Sephora/blob/main/Pictures/All_prod.png' width="450" height="450">
 
-Note: **Not bad! But this can be a little bit disappointing, right?** As we saw controversial ingredients Phenoxyethanol and propanediol.
+Note: **Not bad! But this can be a little bit disappointing, right?** As we saw controversial ingredients Phenoxyethanol and Sodium Benzoate.
 
 ### 2. Does clinical test grants good results?
 
